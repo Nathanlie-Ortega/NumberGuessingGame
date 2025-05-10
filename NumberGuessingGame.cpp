@@ -120,7 +120,7 @@ int main() {
 			if (!leftDisplayed && !rightDisplayed) {
 				displayLeftNum = lowerBound;
 				leftDisplayed = true;
-				cout << "You will only get 1 point for guessing correctly and lose 10 points for guessing incorrectly, now." << endl;
+				cout << "You will only get 1 point for guessing correctly and lose 10 points for guessing incorrectly." << endl;
 			}
 			else {
 				cout << "You have already displayed the right boundary, you cannot display both." << endl;
