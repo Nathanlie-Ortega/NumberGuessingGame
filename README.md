@@ -1,6 +1,8 @@
 # Bounded Number Guessing Game
 
 **Author**: Nathanlie Ortega
+
+
 **Email**: NathanlieOrtega.Dev@gmail.com
 
 ## Brief Description
