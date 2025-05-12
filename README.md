@@ -14,7 +14,7 @@ A C++ console-based game where players guess a number between two random bounds 
 ## Compilation and Execution
 1. Navigate to the project folder:
 
-   cd BoundedNumberGuessingGame
+   cd NumberGuessingGame
 
 2. Compile:
 
@@ -29,7 +29,7 @@ A C++ console-based game where players guess a number between two random bounds 
 
 1. Navigate to the project folder:
 
-   cd BoundedNumberGuessingGame
+   cd NumberGuessingGame
 
 2. Compile:
 
